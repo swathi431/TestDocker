@@ -1,0 +1,11 @@
+git
+*git is a distributed version control system, that means whole repository will be present in the local workspace.
+*if you want to go to previous version of the code, it will be available in the local workspace.
+*in git we can work offline(local workspace).
+*git has many advanced features like fetch, revert, rebase..etc
+
+other(svn):
+*centralized version control systems, only the latest version of code will be there in the local workspace.
+*if you want the previous version of the code, it needs to be checked out from the central repo.
+*we need to interact with central repo frequently.
+*we dont have direct commands to all these features
